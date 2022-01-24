@@ -8,6 +8,20 @@ The home page is designed primarily with the Bulma CSS framework and is a sleek,
 
 ![Image of Empyty Grid](https://github.com/RyanCartularo/rc-chess/blob/main/src/assets/landing%20page.PNG)
 
+# How To Play
+
+### Create Your Username
+
+This ID will be required the first time you go on to the website, after this the username will be saved into your cache, so it will be remembered every time you go to the web site later.
+
+### Play Game
+
+Feel free to navigate around the website to see the various pages that hold information about the website, but in order to start the game, you must press "Play Game" and select the pieces you would like to use (Black, White, or Random)
+
+### Share Your Game With A Friend
+
+
+
 ## Features
 
 RC Chess is fully functioning as a chess game including all legal moves within chess and having end game states.
