@@ -17,3 +17,7 @@ It is written in React and features a host of dynamic abilities that will make i
 
 ## Link To Play
 [RC-Chess.com](https://rc-chess-b8749.web.app/)
+
+## Future of The Project
+
+Obviously this is project is in a relatively immature state, in that some features that are present are not perfect, and some feature that I would love to add are not present. That being said, I dont't have any immediate plans on extensive updates for this project, though their are obvious things that I can and might do in the future.
