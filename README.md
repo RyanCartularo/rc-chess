@@ -2,6 +2,12 @@
 
 RC Chess is an web application where you can play your friends online in games of chess
 
+## The Home Page
+
+The home page is designed primarily with the Bulma CSS framework and is a sleek, elegant method for navigating this simple chess website.
+
+![Image of Empyty Grid](https://github.com/RyanCartularo/rc-chess/blob/main/src/assets/landing%20page.PNG)
+
 ## Features
 
 RC Chess is fully functioning as a chess game including all legal moves within chess and having end game states.
